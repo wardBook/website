@@ -1,5 +1,0 @@
----
-title: "Math"
----
-
-Some really cool math goes here
